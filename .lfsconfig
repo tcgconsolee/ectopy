@@ -1,0 +1,2 @@
+[remote "origin"]
+	lfsurl = https://huggingface.co/datasets/akas1234/ectopy.git/info/lfs
